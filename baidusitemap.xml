@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+
+    
+    
+  <url>
+    <loc>http://yoursite.com/2016/03/12/CallBack/</loc>
+    <lastmod>2016-03-12T06:59:29.788Z</lastmod>
+    <data>
+        <display>
+        <title>关于Java回调</title>
+        <pubTime>2016-03-12T02:02:53.000Z</pubTime>
+        
+        <tag>Java</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/2016/03/12/MyBlog/</loc>
+    <lastmod>2016-03-12T05:32:23.511Z</lastmod>
+    <data>
+        <display>
+        <title>Hello World</title>
+        <pubTime>2016-03-11T16:33:04.297Z</pubTime>
+        
+         
+           
+        </display>
+    </data>
+    </url>
+
+</urlset>
