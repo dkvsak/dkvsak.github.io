@@ -4,8 +4,25 @@
 
     
   <url>
+    <loc>http://yoursite.com/2016/03/13/Git/</loc>
+    <lastmod>2016-03-13T13:52:26.743Z</lastmod>
+    <data>
+        <display>
+        <title>记录一些日常的git操作</title>
+        <pubTime>2016-03-13T13:39:15.000Z</pubTime>
+        
+        <tag>Git</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://yoursite.com/2016/03/12/CallBack/</loc>
-    <lastmod>2016-03-12T11:16:02.623Z</lastmod>
+    <lastmod>2016-03-13T13:51:55.566Z</lastmod>
     <data>
         <display>
         <title>关于Java回调</title>
